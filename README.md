@@ -1,2 +1,2 @@
 # moggy
-A standalone application for transforming grammers into skeletal object models.
+A standalone application for transforming moggy grammer into skeletal object models.
